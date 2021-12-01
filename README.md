@@ -1,12 +1,12 @@
 # React Native Crypto App
 
-## Teck Stack 
-- React Native 
-- Redux
-- API: https://api.coingecko.com
-- react-native-chart-kit
+## Teck Stack 🧰
+✅ React Native <br>
+✅ Redux <br>
+✅ API: https://api.coingecko.com <br>
+✅ react-native-chart-kit <br>
 
-## Screens
+## Screens📱
 
 ### Home Screen
 ![image](https://user-images.githubusercontent.com/9832596/144314812-dcada6e6-baa0-4fd6-8a00-a0425fae45f8.png)
@@ -21,6 +21,6 @@
 ![image](https://user-images.githubusercontent.com/9832596/144315043-4f962950-94ab-4d9e-bd59-7ac12a7bd47b.png)
 
 ### TODOS
- 1- Complete the profile Screen 
- 2- Refactor potential reusable components 
- 3- Component Typing 
+ 1- Complete the profile Screen <br> 
+ 2- Refactor potential reusable components <br>
+ 3- Component Typing <br>
